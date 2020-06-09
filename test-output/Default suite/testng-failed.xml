@@ -5,6 +5,7 @@
     <classes>
       <class name="ChkFil.Download">
         <methods>
+          <include name="beforeClass"/>
           <include name="afterClass"/>
           <include name="downloaFile"/>
         </methods>
